@@ -1,6 +1,6 @@
 
 # Development
-Update both the requirements.txt  when changing any packages or package versions.
+It is very important to update both the requirements.txt  when changing any packages or package versions.
 If you fail to do this the deployments might fail.
  
 # Installation
